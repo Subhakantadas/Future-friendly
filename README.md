@@ -1,0 +1,2 @@
+# Future-friendly
+New repo
