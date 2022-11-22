@@ -1,2 +1,2 @@
-# Future-friendly
+
 New repo
